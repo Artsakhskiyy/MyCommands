@@ -1,0 +1,38 @@
+#      ___       __           __    __       __    _          
+#     / _ | ____/ /____ ___ _/ /__ / /  ___ / /__ (_)_ ____ __
+#    / __ |/ __/ __(_-</ _ `/  '_// _ \(_-</  '_// / // / // /
+#   /_/ |_/_/  \__/___/\_,_/_/\_\/_//_/___/_/\_\/_/\_, /\_, / 
+#                                                 /___//___/ 
+# 
+# Do not change this value!
+version: 1.0
+
+# Messages...
+messages:
+  no_permission: "§cYou do not have permission to use this command..."
+  only_ingame: "§cCommand is only available in the game..."
+
+# Sounds...
+sound:
+  enabled: true
+  name: "random.orb"
+  volume: 1.0
+  pitch: 1.0
+
+# Commands...
+commands:
+  cmd1:
+    description: "command1"
+    message: "§l§2MyCommands » §3Message 1..."
+  cmd2:
+    description: "command2"
+    message: "§l§2MyCommands » §6Message 2..."
+  cmd3:
+    description: "command3"
+    message: "§l§2MyCommands » §cMessage 3..."
+  cmd4:
+    description: "command4"
+    message: "§l§2MyCommands » §vMessage 4..."
+  cmd5:
+    description: "command5"
+    message: "§l§2MyCommands » §gMessage 5..."
