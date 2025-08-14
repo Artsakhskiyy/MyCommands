@@ -1,0 +1,10 @@
+name: MyCommands
+main: Artsakhskiyy\MyCommands\Main
+version: 1.0.0
+api: 5.0.0
+author: Artsakhskiyy
+description: Plugin for custom commands...
+permissions:
+  mycommands.use:
+    description: Allows you to use all custom commands...
+    default: op
